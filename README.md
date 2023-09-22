@@ -13,3 +13,7 @@ You don't need to install anything to run this calculator. Simply open the index
 5. Click on "AC" to clear the input.
 6. Click on "DEL" to delete the last input.
 7. Enjoy calculating!
+
+# ScreenShot
+
+![Screenshot 2023-09-22 135246](https://github.com/mangesh0137/Calculator/assets/131867192/de240d8b-6cb3-4f3a-b1f1-f464f4df10ac)
